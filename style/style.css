@@ -4,11 +4,42 @@
     box-sizing: border-box;
 }
 
-.traje_negro_rojo{
-    
+img{
+    width: 900px;
+    height: 400px;
+}
+/* 
+body{
+    background-color:rgb(50, 53, 201);
+} */
+
+main{
+    display: flex;
+    flex-direction: column;
+}
+.regida{
+    width: 500px;height: 200px;
 }
 
-img{
-    width: 300px;
-    height: 300px;
+p{
+    font-size:x-large;
+    color: black;
 }
+
+h1{
+    font-size: xx-large;
+    color: brown;
+}
+h2{
+    font-size: xx-large;
+    color: brown;
+}
+h3{
+    font-size: xx-large;
+    color: brown;
+}
+h4{
+    font-size: xx-large;
+    color: rgb(121, 38, 93);
+}
+
